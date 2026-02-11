@@ -1,7 +1,7 @@
 # Hi, I'm Hager Hamada 👋
 
 ### Full-Stack Developer
-I am a results-driven Data Analyst and Software Developer with a B.Sc. in Computer Science (Grade: B+). I specialize in bridging the gap between robust backend architecture and insightful data analysis.
+I am a full stack web developer with a B.Sc. in Computer Science (Grade: B+). I specialize in bridging the gap between robust backend architecture and insightful data analysis.
 
 ---
 
@@ -14,7 +14,7 @@ I am a results-driven Data Analyst and Software Developer with a B.Sc. in Comput
 
 *Development Stack*
 * *Languages:* JavaScript, TypeScript, Node.js 
-* *Frameworks:* Next.js, React.js, NestJS, Express.js 
+* *Frameworks:* Next.js, React.js, Express.js 
 * *API & Security:* RESTful APIs, JWT, NextAuth, Postman 
 * *UI/UX:* Tailwind CSS, Redux, ShadCN 
 
